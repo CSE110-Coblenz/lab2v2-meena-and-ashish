@@ -1,3 +1,4 @@
+import { announce } from "./animation";
 
 const snacksB: string[] = ["Chips", "Cookies", "Granola Bar", "Trail Mix", "Popcorn"];
 
@@ -15,5 +16,6 @@ export function print_snacks(){
    console.log(snacks);
 }
 
+announce("snacks", "bold"); 
 print_snacks();
 
