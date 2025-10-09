@@ -1,3 +1,4 @@
+
 const snacksB: string[] = ["Chips", "Cookies", "Granola Bar", "Trail Mix", "Popcorn"];
 
 export function printSnacks(): void {
@@ -7,3 +8,12 @@ export function printSnacks(): void {
   }
 }
 printSnacks();
+
+
+export function print_snacks(){
+   let snacks = ["apple", "orange", "crackers"];
+   console.log(snacks);
+}
+
+print_snacks();
+
