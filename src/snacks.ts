@@ -1,6 +1,6 @@
 import { announce } from "./animation";
 
-const snacksB: string[] = ["Chips", "Cookie", "Granola Bar", "Trail Mix", "Popcorn", "Mosh Bars"];
+const snacksB: string[] = ["Chips", "Cookie", "Granola Bar", "Trail Mix", "Popcorn", "Mosh Bars, UCSD Blue Bowl (Acai Bowl)"];
 
 export function printSnacks(): void {
   console.log("Available Snacks:");
