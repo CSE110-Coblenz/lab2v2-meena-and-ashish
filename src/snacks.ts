@@ -3,7 +3,7 @@ import { announce } from "./animation";
 
 export const snacksB: string[] = ["chips", "Cookies", "Granola Bar", "Trail Mix", "Popcorn"];
 
-
+export const snacksD: string[] = [];
 
 const snacksC: string[] = ["Nutella", "Milky Way", "Snickers", "Oreo", "Shaved Ice", "Pineapple"];
 
