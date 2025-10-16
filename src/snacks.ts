@@ -1,6 +1,6 @@
 import { announce } from "./animation";
 
-const snacksB: string[] = ["Chips", "Cookies", "Granola Bar", "Trail Mix", "Popcorn"];
+export const snacksB: string[] = ["chips", "Cookies", "Granola Bar", "Trail Mix", "Popcorn"];
 
 const snacksC: string[] = ["Nutella", "Milky Way", "Snickers"];
 
@@ -23,7 +23,7 @@ printSnacks();
 
 
 export function print_snacks(){
-   let snacks = ["apple", "orange", "crackers"];
+   let snacks = ["apple", "orange", "crackers", "chips"];
    console.log(snacks);
 }
 
